@@ -630,7 +630,7 @@
     (property "Value" "INMP441" (at 163.195 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 163.83 58.42 0)
+    (property "Footprint" "inmp441:INMP441" (at 163.83 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 163.83 58.42 0)
